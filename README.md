@@ -2,7 +2,7 @@
 A few homemade batch files to make boring tasks efficient and fun.
 
 # Spam Bing Searches.bat 
-Used to efficiently acheive the daily microsoft reward search quota. 
+Used to efficiently acheive the daily [microsoft rewards](https://www.microsoft.com/en-AU/rewards) search quota. 
 
 You can use [User Agent Switcher and Manager](https://add0n.com/useragent-switcher.html) to change your user-agent to Mobile (Android or iOS) to complete the microsoft rewards mobile search quota  
 
